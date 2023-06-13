@@ -27,6 +27,9 @@ Compare three network models with the real-world dataset:
 ## Excess Degree Distribution Analysis
 Calculate the excess degree distribution (kq) based on the given degree distribution (kp) for each of the three networks. Draw the excess degree distribution curves in log-log form and analyze the differences between the obtained curves.
 
+![image](https://github.com/MiladAlipour98/Snap_Net/assets/105122009/5f1c254f-811e-4989-8c02-f3a96b881da4)
+
+
 ## Dependencies
 - Python
 - SNAP package for Python
