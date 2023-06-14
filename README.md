@@ -17,6 +17,14 @@ E. Determine the number of nodes in the largest strongly connected component.
 ## Degree Distribution Analysis
 Draw the distribution of input degrees and output degrees in log-log form. This analysis provides insights into the network structure and degree distribution.
 
+### Input Degree Distribution
+![Out](https://github.com/MiladAlipour98/Snap_Net/assets/105122009/eea209cf-bf47-4a01-8efe-bff60c084c38)
+
+### Output Degree Distribution
+![In1](https://github.com/MiladAlipour98/Snap_Net/assets/105122009/b6699898-a7a5-4e0c-ad98-7495aa17fcdf)
+
+
+
 ## Network Model Comparison
 Compare three network models with the real-world dataset:
 
